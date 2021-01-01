@@ -1,7 +1,7 @@
 cc-pyscript sample repo
 =======================
 
-This is a sample repo created by the v0.1.0 cc-pyscript cookiecutter template
+This is a sample repository generated using the ``cc-pyscript`` v0.1.0 cookiecutter template, which can be found here: https://github.com/sedelmeyer/cc-pyscript
 
 .. image:: https://github.com/sedelmeyer/cc-pyscript-sample-repo/workflows/build/badge.svg?branch=master
     :target: https://github.com/sedelmeyer/cc-pyscript-sample-repo/actions
