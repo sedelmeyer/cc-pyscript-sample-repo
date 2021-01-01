@@ -6,6 +6,6 @@ API Reference
   :depth: 2
   :backlinks: top
 
-.. automodule:: cc_pyscript_sample_repo
+.. automodule:: cc_pyscript_sample_repo.cc_pyscript_sample_repo
    :members:
 

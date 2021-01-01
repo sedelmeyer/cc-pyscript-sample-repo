@@ -96,7 +96,7 @@ html_theme_options = {
     "github_repo": "cc-pyscript-sample-repo",
     "fixed_sidebar": "false",
     "description": (
-        "This is a sample repo created by the v0.1.0 "
+        "This is a sample repository created by the "
         "cc-pyscript cookiecutter template"
     ),
     "badge_branch": "master",
