@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 cc_pyscript_sample_repo.cc_pyscript_sample_repo
-~~~~~~~~~~~~~~~~~~~~~~~"~"~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Add verbose script description.
 
